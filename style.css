@@ -1,0 +1,57 @@
+body{
+    background-color: mediumspringgreen;
+    font-family: 'Merriweather', serif;
+}
+.header_div{
+    background-color: white;
+    color: darkcyan;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background-color: lightpink;
+    padding: 10px;
+    margin-top: 16px;
+    border: 3px solid white;
+}
+.main_div label{
+    background-color: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 10px 18px black;
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 10px 18px black;
+    border: 1px solid;
+}
+#camera,#result{
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 10px 18px black;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div img{
+    width: 70px;
+}
+.footer_div h4{
+    background-color: lightgrey;
+    border-radius: 10px;
+    padding: 0px;
+    box-shadow: 5px 5px 18px black;
+}
+.copyright_footer{
+    bottom: 0;
+    position: fixed;
+    color:darkmagenta;
+    width: 100%;
+    background-color: lightpink;
+    line-height: 3;
+    text-align: center;
+}
